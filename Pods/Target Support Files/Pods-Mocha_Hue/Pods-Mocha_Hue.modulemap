@@ -1,0 +1,6 @@
+module Pods_Mocha_Hue {
+  umbrella header "Pods-Mocha_Hue-umbrella.h"
+
+  export *
+  module * { export * }
+}
